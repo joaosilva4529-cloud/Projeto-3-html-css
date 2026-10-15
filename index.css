@@ -1,0 +1,50 @@
+
+header {
+    background-color: crimson;
+    color: rgb(247, 250, 252);
+    padding: 100px; 
+    border:none; 
+}
+
+h2 {
+    background-color:rgb(241, 193, 72);
+    width: max-content;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    color: crimson;
+    
+}
+
+.meu-retangulo {
+  width: 90%;  
+color: crimson;          
+  height: 350px;           
+  background-color: #fafc8c; 
+  padding: 
+  color: #f83434;            
+  font-size: 20px;           
+  font-family: sans-serif;   
+  
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  box-sizing: border-box;  
+}
+
+p {
+  font-size: 16px;
+  
+}
+
+h1 {
+  font-size: 3rem;
+ text-align:left;
+}
+
+body {
+  background-color: #fffddb; 
+}
